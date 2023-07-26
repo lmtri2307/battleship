@@ -2,6 +2,10 @@
 
 Welcome to the BattleShip Game project! This project was developed as part of a Computer Networking course, showcasing the implementation of a multiplayer BattleShip game with client-server architecture.
 
+## Demo Video
+
+Check out the demo video of the BattleShip [here](https://www.youtube.com/watch?v=ciYIb-8J9tU).
+
 ## Project Description
 
 The BattleShip Game allows clients to connect to a server using an IP address and port. After connecting, clients can either login or sign up to access the game. Once logged in, clients can invite other connected clients to a game of BattleShip. The game features a graphical user interface developed using Tkinter and utilizes Pygame for the BattleShip game mechanics.
